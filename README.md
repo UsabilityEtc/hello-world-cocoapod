@@ -11,7 +11,7 @@ platform :osx
 use_frameworks!
 
 target 'MyApp' do
-  pod 'HelloWorld', :git => 'https://github.com/UsabilityEtc/hello-world-cocoapod'
+  pod 'HelloWorld', :git => 'https://github.com/jeffreymorganio/hello-world-cocoapod'
 end
 ```
 
